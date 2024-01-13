@@ -29,6 +29,7 @@ get:
           schema:
             title: GetPeersResponse
             type: object
+            required: [data]
             properties:
               data:
                 type: array
