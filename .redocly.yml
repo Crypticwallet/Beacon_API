@@ -5,4 +5,5 @@ rules:
   operation-4xx-response: off
   operation-tag-defined: error
   security-defined: off
+  security-offload: off
     
