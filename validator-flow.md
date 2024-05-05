@@ -47,4 +47,4 @@ Attesting:
     - [Publish SignedAggregateAndProofs](#/ValidatorRequiredApi/publishAggregateAndProofs)
 
 Monitor chain block reorganization events (TBD) as they could change attesters and aggregators.
-If reorg is detected, ask for new attester duties and proceed from 1..
+If reorg is detected, ask for new attester duties and proceed from 1...
