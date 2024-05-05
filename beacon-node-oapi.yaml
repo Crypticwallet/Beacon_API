@@ -17,7 +17,7 @@ info:
 
       - no field that is listed in an endpoint shall be removed without an increase in the version number
       - no field that is listed in an endpoint shall be altered in terms of format (_e.g._ from a string to an array) without an
-        increase in the version number
+        increase in the version number.
 
     Note that it is possible for a field to be added to an endpoint's data or metadata without an increase in the version number.
 
